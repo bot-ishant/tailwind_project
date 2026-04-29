@@ -1,2 +1,2 @@
 # tailwind_project
-First time working with css framework : TAILWINDcss
+First time working with css framework : TAILWINDCSS
